@@ -1,1 +1,1 @@
-created a mozilla firefox extension as a task given by mozilla club vit, the extension loads a fresh joke each time the page is reloaded.
+created a mozilla firefox extension as a task given by mozilla club vit, the extension loads a fresh joke each time the page is reloaded. The icons.png files should be stored inside a directory named icons.
